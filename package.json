@@ -1,0 +1,12 @@
+{
+  "id": "Pirsch",
+  "name": "Pirsch Analytics",
+  "version": "0.1",
+  "description": "Pirsch Analytics for Franz",
+  "main": "index.js",
+  "author": "kreativ-anders | Manuel Steinberg",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://dashboard.pirsch.io/"
+  }
+}
